@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OnlyCars Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the OnlyCars Project</h1>
+        <p>A project for customizing cars before you spend money on real modifications.</p>
+    </header>
+
+    <section id="personas">
+        <h2>Personas</h2>
+        <div class="persona">
+            <h3>John Smith - The Car Enthusiast</h3>
+            <p>Age: 32</p>
+            <p>Occupation: IT Specialist</p>
+            <p>Goals: To experiment with car modifications and find the best look for car shows.</p>
+            <p>Frustrations: Not being able to visualize parts before buying.</p>
+        </div>
+        <div class="persona">
+            <h3>Sarah Lee - The Practical Car Owner</h3>
+            <p>Age: 27</p>
+            <p>Occupation: Marketing Executive</p>
+            <p>Goals: To make simple, aesthetic car modifications within a budget.</p>
+            <p>Frustrations: Overwhelmed by too many customization options.</p>
+        </div>
+    </section>
+
+    <section id="scenarios">
+        <h2>Scenarios</h2>
+        <div class="scenario">
+            <h3>Scenario 1: John Smith's Customization Journey</h3>
+            <p>John logs into the Car Customizer website and selects his Subaru WRX...</p>
+        </div>
+        <div class="scenario">
+            <h3>Scenario 2: Sarah Lee's Simple Makeover</h3>
+            <p>Sarah wants to upgrade her 2017 Honda Civic for a more modern look...</p>
+        </div>
+    </section>
+
+    <section id="storyboard">
+        <h2>Storyboard</h2>
+        <p>Below is the storyboard for the car customization process...</p>
+        <!-- You can either include images or describe the storyboard steps -->
+        <div class="storyboard-step">
+            <img src="storyboard-step1.png" alt="Storyboard Step 1">
+            <p>Step 1: John logs into the Car Customizer website.</p>
+        </div>
+    </section>
+
+    <section id="moodboard">
+        <h2>Moodboard</h2>
+        <p>The moodboard showcases the inspiration and visual style for the OnlyCars project.</p>
+        <div class="moodboard">
+            <img src="mood-image1.jpg" alt="Car Customization Inspiration">
+            <img src="mood-image2.jpg" alt="Modern Rims">
+        </div>
+    </section>
+
+</body>
+</html>
